@@ -12,13 +12,15 @@ date: 2026-01-09
 
   - [ ] **1. Which learning goals from the syllabus are you most excited about?** 
 
-   Your answer here
+   "[I]nterpret and adapt code written by others" is the goal that I am most excited about. I do not have experience with this skill but I realize that leveraging open sourced code can help elevate my own coding abilities. 
+   
+   I am also excited to learn what it means to apply a DEI lens to the process of data visualization. Beyond the considerations of color selection to make visuals visible to those with color blindness and font size choices I am not familiar with this area of data visualization. I like working in environmental justice spaces and can't wait to bring those principles into my code. 
 
   - [ ] **2. What do you hope to get out of this class?**
 
-   Your answer here
+   Gaining more experience using R to make finalized visuals such as those we will be composing for our final project is the skill I hope to get out of the course. I also hope to learn where to turn for help in coding visuals as well as reliable resources that can provide more details. 
 
   - [ ] **3. How do you plan on accomplishing your learning goals for this course? *Note:* be specific here! Instead of writing, “I will complete homework assignments” or “I will study,” you can make these more specific strategies: “I will create a schedule to map out assignments“ (elaborate on this), “I will use the homework assignments as opportunities to practice X,” I will communicate with classmates to ask for help after trying X,” “I will participate in online learning communities, such as TidyTuesday...” etc.**
 
-   Your answer here 
+   I will thoroughly explore the code of others especially when in relation to homework assignments. I will work cooperatively with my classmates during lab to learn from their knowledge and exchange ideas of ways of accomplishing a task. I will lastly ensure that I am proud of all of the final products I turn in even when there is room for improvement. 
 
